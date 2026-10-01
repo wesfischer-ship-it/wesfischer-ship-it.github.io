@@ -1,0 +1,3 @@
+# The global gitignore blocks *.pem to protect private keys.
+# This is the Tesla Fleet PUBLIC key, which must be published.
+!.well-known/appspecific/com.tesla.3p.public-key.pem
